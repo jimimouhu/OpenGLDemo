@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jimim\source\repos\Transforms\Loader\main.cpp(425): warning C4715: 'Transform6': not all control paths return a value
+  Loader.vcxproj -> C:\Users\jimim\source\repos\Transforms\x64\Debug\Loader.exe
